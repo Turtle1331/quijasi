@@ -14,3 +14,7 @@ To rebuild Quijasi after minor changes:
 cd build
 make
 ```
+
+## License
+
+Quijasi is licensed under the GNU General Public License v3.0 or later.
